@@ -36,4 +36,4 @@ This project demonstrates the use of HTML, CSS, and JavaScript to build an inter
 
 ## Live Demo
 
-The live application link will be added after deployment using GitHub Pages.
+https://tiwarianushka0805-arch.github.io/interactive-quiz-application/
