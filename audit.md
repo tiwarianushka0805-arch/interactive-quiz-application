@@ -63,13 +63,13 @@
 
 ## 8. Repository and Deployment Audit
 
-- [ ] `index.html` uploaded to GitHub.
-- [ ] `style.css` uploaded to GitHub.
-- [ ] `script.js` uploaded to GitHub.
-- [ ] `README.md` added and reviewed.
-- [ ] `audit.md` added to the repository.
-- [ ] GitHub Pages deployment completed.
-- [ ] Live application URL tested successfully.
+- [x] `index.html` uploaded to GitHub.
+- [x] `style.css` uploaded to GitHub.
+- [x] `script.js` uploaded to GitHub.
+- [x] `README.md` added and reviewed.
+- [x] `audit.md` added to the repository.
+- [x] GitHub Pages deployment completed.
+- [x] Live application URL tested successfully.
 
 ## 9. Final Conclusion
 
